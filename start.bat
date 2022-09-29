@@ -1,0 +1,1 @@
+VENV\Scripts\activate & set QT_DEVICE_PIXEL_RATIO=0 & set QT_AUTO_SCREEN_SCALE_FACTOR=1 & set QT_SCREEN_SCALE_FACTORS=1 & set QT_SCALE_FACTOR=1 & python back.py 
